@@ -1,0 +1,13 @@
+header{
+    width: 100%;
+    background-color: #10454F;
+    padding: 20px;
+
+}
+
+header h1{
+    color: #fff;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
